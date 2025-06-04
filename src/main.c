@@ -48,7 +48,7 @@ int main(int argc, char *argv[]) {
         }
     }
 
-    // Si ni 3 ni 4 arguments
+    // Mauvais nombre d'arguments
     printf("Usage : ./calculator <operation> <a> [b]\n");
     printf("Opérations disponibles : add, sub, mul, div, car\n");
     return 1;
