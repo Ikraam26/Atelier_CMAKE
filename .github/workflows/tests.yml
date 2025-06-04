@@ -106,4 +106,4 @@ jobs:
       - Test_Car
     steps:
       - name: Deploy
-        run: echo "DÃ©ploiement de la solution"
+        run: echo "Déploiement de la solution"
